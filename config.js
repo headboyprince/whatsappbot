@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2348056362226', 'kel WhatsApp bot, true],
+  ['2348056362226', 'kel WhatsApp bot', true],
   [''],
   [''] 
 ] //Number of owners
